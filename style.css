@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h1 {
+    color: teal; 
+    margin-left: auto;
+    margin-right: auto; 
+    width: 570px; 
+}
+
+.p {
+    color: teal; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 262px; 
+}
+
+.p_1 {
+    color: teal; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 570px; 
+}
+
+.container {
+    width: 570px;
+    margin: auto;
+    border: 1px solid blue;
+}
